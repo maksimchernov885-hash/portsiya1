@@ -1,0 +1,12 @@
+{
+  "appId": "com.maksim.portsiya",
+  "appName": "Порція",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
